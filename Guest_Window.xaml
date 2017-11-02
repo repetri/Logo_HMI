@@ -1,0 +1,38 @@
+﻿<Window x:Name="Guest_window" x:Class="Lock_Tech_operator_panel.Guest_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lock_Tech_operator_panel"
+        mc:Ignorable="d"
+        Title="Guest_Window" Height="859.2" Width="1492.8" WindowStartupLocation="CenterScreen" WindowState="Maximized" Icon="Lock-Tech-Logo.ico" Background="Black" Foreground="#FFDADADA">
+    <Grid Background="#FFF7F7F7" Cursor="Arrow">
+        <Rectangle Fill="#FFBEBEBE" HorizontalAlignment="Left" Height="114" Margin="550,438,0,0" Stroke="Black" VerticalAlignment="Top" Width="280" StrokeThickness="3"/>
+        <Menu HorizontalAlignment="Left" Height="20"  VerticalAlignment="Top" Width="auto">
+            <MenuItem Header="File" Cursor="Arrow">
+                <MenuItem x:Name="Log_out" Header="Log out" HorizontalAlignment="Left" Width="140" Cursor="Arrow" Click="Log_out_Click" />
+                <MenuItem x:Name="Open_website" Header="Open website" HorizontalAlignment="Left" Cursor="Arrow" Width="160" Click="Open_website_Click"/>
+                <MenuItem x:Name="Close" Header="Close" HorizontalAlignment="Left" Width="140" Cursor="Arrow" Click="Close_Click"/>
+            </MenuItem>
+            <MenuItem Header="Connections">
+                <MenuItem x:Name="Con_PLC" Header="Connect to plc" HorizontalAlignment="left" Width="165" Click="Connect_Click"/>
+                <MenuItem x:Name="Discon_PLC" Header="Disconnect from plc" HorizontalAlignment="Left" Width="190" Click="Discon_PLC_Click"/>
+            </MenuItem>
+        </Menu>
+        <Ellipse x:Name="LED_Standby" Fill="White" HorizontalAlignment="Left" Height="80" Margin="350,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="80" Cursor="Arrow" StrokeThickness="3"/>
+        <Button x:Name="BT_start" Content="Start" HorizontalAlignment="Left" Margin="568,479,0,0" VerticalAlignment="Top" Width="80" Height="40" FontWeight="Bold" Foreground="Black" BorderBrush="Black" Click="BT_start_Click" Background="Lime" Cursor="Hand" BorderThickness="2"/>
+        <Ellipse x:Name="LED_Busy" Fill="#FFFDFDFD" HorizontalAlignment="Left" Height="80" Margin="550,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="80" Cursor="Arrow" StrokeThickness="3"/>
+        <Ellipse x:Name="LED_ERROR" Fill="#FFFEFEFF" HorizontalAlignment="Left" Height="80" Margin="750,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="80" Cursor="Arrow" StrokeThickness="3"/>
+        <Button x:Name="BT_stop" Content="Stop" HorizontalAlignment="Left" Margin="738,479,0,0" VerticalAlignment="Top" Width="75" Height="40" FontWeight="Bold" BorderBrush="Black" Click="BT_stop_Click" Cursor="Hand" BorderThickness="2" Background="Red"/>
+        <Label Content="Stand-by" HorizontalAlignment="Left" Margin="350,220,0,0" VerticalAlignment="Top" Width="80" FontWeight="Bold" HorizontalContentAlignment="Center" Foreground="Black" Cursor="Arrow"/>
+        <Label Content="Running" HorizontalAlignment="Left" Margin="550,220,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" HorizontalContentAlignment="Center" Foreground="Black" Cursor="Arrow"/>
+        <Label Content="Error" HorizontalAlignment="Left" Margin="750,220,0,0" VerticalAlignment="Top" Width="80" HorizontalContentAlignment="Center" FontWeight="Bold" Foreground="Black" Cursor="Arrow"/>
+        <Ellipse x:Name="LED_Connection" Fill="White" HorizontalAlignment="Left" Height="80" Margin="938,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="80" Cursor="Arrow" StrokeThickness="3"/>
+        <Label Content="Connection status" HorizontalAlignment="Left" Margin="911,220,0,0" VerticalAlignment="Top" Width="134" FontWeight="Bold" HorizontalContentAlignment="Center" Foreground="Black" Cursor="Arrow" />
+        <TextBox x:Name="TB_errors"  IsReadOnly="True" HorizontalAlignment="Left" Height="116" Margin="1099,250,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="183" BorderBrush="Black" Cursor="Arrow" SelectionBrush="{x:Null}" SelectionOpacity="0" IsInactiveSelectionHighlightEnabled="True" BorderThickness="2" VerticalScrollBarVisibility="Auto" TextChanged="TB_errors_TextChanged"/>
+        <Label Content="Error information: " HorizontalAlignment="Left" Margin="1126,220,0,0" VerticalAlignment="Top" Width="126" FontWeight="Bold" HorizontalContentAlignment="Center" Foreground="Black" Cursor="Arrow"/>
+        <Label Content="Cycle" HorizontalAlignment="Left" Margin="654,447,0,0" VerticalAlignment="Top" Width="80" FontWeight="Bold" HorizontalContentAlignment="Center" RenderTransformOrigin="-1.425,3.115" Foreground="Black" Background="#FFBEBEBE"/>
+        <Image x:Name="logo_guest" Source="http://i.imgur.com/DnMSDFB.png"  HorizontalAlignment="Left" Height="206" Margin="1057,508,0,0" VerticalAlignment="Top" Width="292" Stretch="Fill"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,25 @@
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\bin\Debug\Lock-Tech operator panel.exe.config
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\bin\Debug\Lock-Tech operator panel.exe
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\bin\Debug\Lock-Tech operator panel.pdb
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Lock-Tech operator panel.csprojResolveAssemblyReference.cache
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\MainWindow.g.cs
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\App.g.cs
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Lock-Tech operator panel_MarkupCompile.cache
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Lock-Tech operator panel_MarkupCompile.lref
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\MainWindow.baml
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Lock-Tech operator panel.g.resources
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Lock_Tech_operator_panel.Properties.Resources.resources
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Lock-Tech operator panel.csproj.GenerateResource.Cache
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Lock-Tech operator panel.exe
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Lock-Tech operator panel.pdb
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Log-on-screen.g.cs
+c:\users\ramon\documents\visual studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Log-on-screen.baml
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Lock-Tech operator panel.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\bin\Debug\Sharp 7.dll
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\bin\Debug\Sharp 7.pdb
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Guest_Window.g.cs
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Guest_Window.baml
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Ghrapical_interface.g.cs
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Ghrapical_interface.baml
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Debug\Gui sluis complex.baml

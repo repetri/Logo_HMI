@@ -1,0 +1,21 @@
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\bin\Release\Lock-Tech operator panel.exe.config
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\bin\Release\Lock-Tech operator panel.exe
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\bin\Release\Lock-Tech operator panel.pdb
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\bin\Release\Sharp 7.dll
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\bin\Release\Sharp 7.pdb
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\MainWindow.baml
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Guest_Window.g.cs
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Log-on-screen.g.cs
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\MainWindow.g.cs
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\App.g.cs
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Lock-Tech operator panel_MarkupCompile.cache
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Lock-Tech operator panel_MarkupCompile.lref
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Guest_Window.baml
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Log-on-screen.baml
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Lock-Tech operator panel.g.resources
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Lock_Tech_operator_panel.Properties.Resources.resources
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Lock-Tech operator panel.csproj.GenerateResource.Cache
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Lock-Tech operator panel.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Lock-Tech operator panel.exe
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Lock-Tech operator panel.pdb
+C:\Users\ramon\Documents\Visual Studio 2017\Projects\Lock-Tech operator panel\Lock-Tech operator panel\obj\Release\Lock-Tech operator panel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+﻿<Window x:Name="Log_on_screen1" x:Class="Lock_Tech_operator_panel.Log_on_screen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lock_Tech_operator_panel"
+        mc:Ignorable="d"
+        Title="Log_on_screen" WindowStartupLocation="CenterScreen" WindowState="Maximized" Icon="Lock-Tech-Logo.ico" ResizeMode="CanMinimize" Cursor="Arrow" Width="940.5" Height="593.5">
+    <Grid Margin="0,0,0,-2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="691*"/>
+            <ColumnDefinition Width="259*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="Logo" Source="http://i.imgur.com/DnMSDFB.png"  Margin="153,10,219,271" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2"/>
+        <Button x:Name="LOGIN_BT" TabIndex="2" Content="Login" Margin="410,451,0,0" Click="LOGIN_BT_Click" HorizontalAlignment="Left" Width="85" Height="30" VerticalAlignment="Top" Cursor="Hand"/>
+        <TextBox x:Name="USER_NAME_TB" TabIndex="0" Margin="410,374,0,0" TextWrapping="Wrap" Text="" Height="23" VerticalAlignment="Top" HorizontalAlignment="Left" Width="224" Cursor="IBeam" KeyDown="USER_NAME_TB_KeyDown"/>
+        <Label x:Name="USER_NAME_LB" IsTabStop="False" Content="Username: " Margin="403,351,202,0" Height="26" VerticalAlignment="Top" HorizontalContentAlignment="Stretch"/>
+        <Label x:Name="PSW_LB" IsTabStop="False" Content="Password: " Margin="403,397,209,0" Height="26" VerticalAlignment="Top"/>
+        <Button x:Name="RESET_BT" TabIndex="3" Content="Forgot password ?" Margin="511,451,0,0" Click="RESET_BT_Click" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Width="102" Cursor="Hand"/>
+        <PasswordBox x:Name="PSW_BOX" TabIndex="1" Margin="410,423,0,0" HorizontalAlignment="Left" Width="224" Height="23" VerticalAlignment="Top" VerticalContentAlignment="Center" KeyDown="PSW_BOX_KeyDown" Cursor="IBeam"/>
+        <Menu x:Name="Menu_strip" Width="Auto" Height="20" VerticalAlignment="Top" Background="{x:Null}">
+            <MenuItem Header="File" Cursor="Arrow">
+                <MenuItem x:Name="App_close" Header="Close" HorizontalAlignment="Left" Width="140" Cursor="Arrow" Click="App_close_Click"/>
+
+            </MenuItem>
+        </Menu>
+        <Label x:Name="LB_CAPS_LOCK" Content="CAPS-LOCK is on!" HorizontalAlignment="Left" Margin="651,397,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="109" Background="#FFE2D924" BorderBrush="Black" BorderThickness="2" Visibility="Collapsed" />
+
+    </Grid>
+</Window>
